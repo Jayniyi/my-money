@@ -1,0 +1,27 @@
+*{
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+ul{
+  list-style: none;
+}
+
+.btn{
+  background-color: none;
+  border:  2px solid green;
+  padding: 6px 12px;
+  border-radius: 4px;
+  color: #1f9751;
+  font-weight: bold;
+  cursor: pointer;
+   font-size: 1em;
+}
+.btn:hover{
+  color: #fff;
+  background-color: #1f9751;
+}
+span{
+  text-transform: capitalize;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
