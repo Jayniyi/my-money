@@ -1,5 +1,5 @@
 {
-  "homepage": "http://jay.github.io/e-commerce-with-react",
+  "homepage": "http://jay.github.io/commerce-website",
   "name": "my-money",
   "private": true,
   "version": "0.0.0",
@@ -10,8 +10,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-      "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "firebase": "8.5",
