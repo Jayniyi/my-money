@@ -1,5 +1,5 @@
 import  { Suspense, lazy } from 'react';
-import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
+import { HashRouterRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import Navbar from './assets/components/navbar';
 import { useAuthContext } from './hooks/useauthcontext';
 
